@@ -1,4 +1,4 @@
-En este repositorio se encuentra material referente al Taller: Deep learning en visión computacional de la 9ª Escuela de Invierno en Ciencia de Datos y Sistemas Complejos del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México.
+En este repositorio se encuentra material referente al Taller: Deep learning en visión computacional de la <a href="[https://www.pcic.unam.mx/](https://sites.google.com/view/escuela-ciencia-de-datos/p%C3%A1gina-principal)">9ª Escuela de Invierno en Ciencia de Datos y Sistemas Complejos</a> del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México.
 
 # **9ª Escuela de Invierno en Ciencia de Datos y Sistemas Complejos**
 ---
